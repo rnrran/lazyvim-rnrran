@@ -1,0 +1,10 @@
+# Neovim
+plugin/
+lazy-lock.json~
+
+# OS
+.DS_Store
+
+# Temporary
+*.swp
+*.swo
